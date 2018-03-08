@@ -39,7 +39,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git@github.com:menkeydyvh/eggweb.git"
   },
   "author": "",
   "license": "MIT"
