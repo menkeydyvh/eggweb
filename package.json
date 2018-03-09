@@ -9,6 +9,9 @@
     "egg-scripts": "^2.5.0",
     "egg-view-nunjucks": "^2.1.6"
   },
+  "eggPlugin": {
+    "name": "mysql"
+  },
   "devDependencies": {
     "autod": "^3.0.1",
     "autod-egg": "^1.0.0",
