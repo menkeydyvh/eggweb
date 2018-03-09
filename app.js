@@ -1,3 +1,5 @@
+'use strict';
+
 const eggweb = require('./lib/eggweb');
 
 module.exports = app => {
