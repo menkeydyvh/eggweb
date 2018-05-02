@@ -5,6 +5,5 @@
  */
 module.exports = app => {
   const {router, controller} = app;
-  let baseName = '/eggweb';
-  router.get(baseName + '/', controller.eggweb.home.index);
+  router.get('/', controller.home.index);
 };
